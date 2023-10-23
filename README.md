@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: October 23-26, 2023
+- Facilitator: @trnacctKR
 
 ## Class Resources
 
